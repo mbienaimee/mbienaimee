@@ -1,4 +1,14 @@
-## Hi there, I am BIENAIMEE 👋
+## Hi there, I'm BIENAIMEE 👋
+a passionate software engineer with a keen eye for crafting elegant and efficient solutions to complex problems.
+
+My journey in the world of technology began with a fascination for how software can
+
+revolutionize the way we live, work, and communicate.
+
+🌱 I’m currently learning java &  and Algorithms
+
+💬 Ask me about webdevelopment
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbienaimee&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbienaimee&layout=compact)
 
