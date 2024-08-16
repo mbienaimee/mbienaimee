@@ -2,9 +2,9 @@
 
 Passionate software engineer crafting efficient solutions, fascinated by tech's potential.
 
-🌱 I’m currently learning javascript  and Algorithms
+🌱 I’m currently learning java
 
-💬 Ask me about webdevelopment
+💬 Ask me about Backend
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbienaimee&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbienaimee&layout=compact)
