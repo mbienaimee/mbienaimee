@@ -2,7 +2,7 @@
 
 Passionate software engineer crafting efficient solutions, fascinated by tech's potential.
 
-🌱 I’m currently learning React js
+🌱 I’m currently learning DevOps
 
 💬 Ask me about Backend
 
