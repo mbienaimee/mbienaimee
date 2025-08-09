@@ -4,7 +4,7 @@ Passionate software engineer crafting efficient solutions, fascinated by tech's 
 
 🌱 I’m currently learning DevOps
 
-💬 Ask me about Backend
+💬 Ask me about Full stack
 
 ![Bienaimee's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbienaimee&show_icons=true&theme=radical)
 ![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mbienaimee&layout=compact&theme=radical)
